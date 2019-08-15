@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Item Mobile Legends</string>
+    <string name="email">dyas.mail@gmail.com</string>
+    <string name="nama">Dyas Irvan Masruri</string>
+    <string name="description_img_about">My photo</string>
+    <string name="logo">Logo</string>
+    <string name="no_telp">+6282235401113</string>
+    <string name="introduction">Hello, I\'m newbie of mobile programing, but I never stop to learn more and more. Please review my apps via Email or Whatsapp.</string>
+    <string name="menu_about">About</string>
+</resources>
